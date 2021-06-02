@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\API",
+    "\\API\\Controllers",
+    "\\client",
+    "\\client\\src",
+    "\\client\\src\\app",
+    "\\client\\src\\app\\nav"
+  ],
+  "SelectedNode": "\\client\\src\\app\\nav\\nav.component.html",
+  "PreviewInSolutionExplorer": false
+}
