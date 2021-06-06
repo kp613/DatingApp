@@ -53,7 +53,6 @@ E:\Angular\DatingApp\API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
 E:\Angular\DatingApp\API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
 E:\Angular\DatingApp\API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
 E:\Angular\DatingApp\API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
-E:\Angular\DatingApp\api\obj\Debug\net5.0\API.csprojAssemblyReference.cache
 E:\Angular\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 E:\Angular\DatingApp\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
 E:\Angular\DatingApp\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
@@ -69,3 +68,7 @@ E:\Angular\DatingApp\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
 E:\Angular\DatingApp\API\bin\Debug\net5.0\Data\UserSeedData.json
 E:\Angular\DatingApp\api\bin\Debug\net5.0\AutoMapper.dll
 E:\Angular\DatingApp\api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Angular\DatingApp\api\bin\Debug\net5.0\CloudinaryDotNet.dll
+E:\Angular\DatingApp\api\bin\Debug\net5.0\Microsoft.Extensions.WebEncoders.dll
+E:\Angular\DatingApp\api\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Angular\DatingApp\api\obj\Debug\net5.0\API.csproj.AssemblyReference.cache

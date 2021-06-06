@@ -6,11 +6,11 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
-namespace API.Data.Migrations
+namespace API.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20210526000924_AddPhotosExtension")]
-    partial class AddPhotosExtension
+    [Migration("20210603002349_initialDb")]
+    partial class initialDb
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -48,6 +48,9 @@ namespace API.Data.Migrations
                     b.Property<string>("KnownAs")
                         .HasColumnType("TEXT");
 
+                    b.Property<DateTime>("LastActive")
+                        .HasColumnType("TEXT");
+
                     b.Property<string>("LookingFor")
                         .HasColumnType("TEXT");
 
@@ -58,9 +61,6 @@ namespace API.Data.Migrations
                         .HasColumnType("BLOB");
 
                     b.Property<string>("UserName")
-                        .HasColumnType("TEXT");
-
-                    b.Property<DateTime>("dateTime")
                         .HasColumnType("TEXT");
 
                     b.HasKey("Id");
