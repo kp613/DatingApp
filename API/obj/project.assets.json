@@ -2321,11 +2321,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Angular\\DatingApp\\API\\API.csproj",
+      "projectUniqueName": "E:\\Angular\\DatingApp\\api\\API.csproj",
       "projectName": "API",
-      "projectPath": "E:\\Angular\\DatingApp\\API\\API.csproj",
+      "projectPath": "E:\\Angular\\DatingApp\\api\\API.csproj",
       "packagesPath": "C:\\Users\\King-Pharm\\.nuget\\packages\\",
-      "outputPath": "E:\\Angular\\DatingApp\\API\\obj\\",
+      "outputPath": "E:\\Angular\\DatingApp\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\King-Pharm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2439,7 +2439,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
